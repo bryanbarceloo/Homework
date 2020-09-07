@@ -1,7 +1,7 @@
 #include <iostream> 
 
 int main() {
-    std::cout << "Enter two integer values (val1,val2): \n";
+    std::cout << "Enter two integer values (val1) then (val2): \n";
     int val1, val2;
     std::cin >> val1 >> val2;
 
