@@ -12,10 +12,10 @@ int main()
 
 	if (0 == integer % 2) {
 
-		cout << " The value " << integer << " is even ";
+		cout << " The value " << integer << " is even\n";
 	}
 	else {
-		cout << " The value " << integer << " is odd ";
+		cout << " The value " << integer << " is odd\n";
 
 	}
 }
